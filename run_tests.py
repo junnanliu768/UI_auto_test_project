@@ -188,3 +188,5 @@ def main(argv=None):
 
 if __name__ == "__main__":
     sys.exit(main())
+    print("测试运行完成。")
+    
