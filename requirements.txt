@@ -1,0 +1,5 @@
+pytest
+playwright
+colorlog
+pytest-asyncio
+allure-pytest

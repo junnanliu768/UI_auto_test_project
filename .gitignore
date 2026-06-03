@@ -1,0 +1,21 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Node modules
+node_modules/
+
+# Playwright test artifacts
+playwright-report/
+test-results/
+
+# Archives
+*.zip
+
+# IDE/editor settings
+.idea/
+.vscode/

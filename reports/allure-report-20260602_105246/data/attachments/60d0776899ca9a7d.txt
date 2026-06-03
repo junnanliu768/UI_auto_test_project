@@ -1,0 +1,5 @@
+[36m日志:debug_log-级别:DEBUG-时间:2026-06-02 10:52:45-模块:baseDriver.py-第177行:页面已关闭[0m
+[36m日志:debug_log-级别:DEBUG-时间:2026-06-02 10:52:46-模块:baseDriver.py-第184行:浏览器上下文已关闭[0m
+[36m日志:debug_log-级别:DEBUG-时间:2026-06-02 10:52:46-模块:baseDriver.py-第191行:浏览器已关闭[0m
+[36m日志:debug_log-级别:DEBUG-时间:2026-06-02 10:52:46-模块:baseDriver.py-第198行:Playwright 已停止[0m
+[32m日志:debug_log-级别:INFO-时间:2026-06-02 10:52:46-模块:baseDriver.py-第202行:浏览器资源已全部清理[0m

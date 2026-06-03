@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Tue Jun 02 10:52:45 CST 2026","Tue Jun 02 10:52:45 CST 2026","380","TestCase","test_homepage","","","","test_robot_hand_is_none",""
+"failed","Tue Jun 02 10:52:45 CST 2026","Tue Jun 02 10:52:45 CST 2026","382","TestCase","test_homepage","","","","test_robot_status_is_active",""
+"passed","Tue Jun 02 10:52:45 CST 2026","Tue Jun 02 10:52:45 CST 2026","27","TestCase","test_homepage","","","","test_robot_model_is_m7",""

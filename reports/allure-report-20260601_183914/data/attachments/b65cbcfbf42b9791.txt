@@ -1,0 +1,11 @@
+[32m日志:debug_log-级别:INFO-时间:2026-06-01 17:52:24-模块:readConfig.py-第14行:配置文件路径: /home/user/mycode/Playwright_test/config.ini[0m
+[32m日志:debug_log-级别:INFO-时间:2026-06-01 17:52:24-模块:readConfig.py-第42行:获取配置值 'driverUrl.url': http://192.168.8.100:1888[0m
+[32m日志:debug_log-级别:INFO-时间:2026-06-01 17:52:24-模块:baseDriver.py-第33行:从配置文件读取URL: http://192.168.8.100:1888[0m
+[32m日志:debug_log-级别:INFO-时间:2026-06-01 17:52:24-模块:baseDriver.py-第50行:BaseDriver 初始化完成[0m
+[32m日志:debug_log-级别:INFO-时间:2026-06-01 17:52:24-模块:baseDriver.py-第78行:Playwright 启动成功，浏览器类型: chromium[0m
+[32m日志:debug_log-级别:INFO-时间:2026-06-01 17:52:24-模块:baseDriver.py-第102行:浏览器启动成功 (headless=False, slow_mo=0ms)[0m
+[32m日志:debug_log-级别:INFO-时间:2026-06-01 17:52:24-模块:baseDriver.py-第116行:浏览器上下文创建成功，视口大小: {'width': 1920, 'height': 1080}[0m
+[32m日志:debug_log-级别:INFO-时间:2026-06-01 17:52:24-模块:baseDriver.py-第132行:正在访问页面: http://192.168.8.100:1888[0m
+[32m日志:debug_log-级别:INFO-时间:2026-06-01 17:52:25-模块:baseDriver.py-第134行:页面加载成功: http://192.168.8.100:1888[0m
+[32m日志:debug_log-级别:INFO-时间:2026-06-01 17:52:28-模块:baseDriver.py-第169行:窗口已最大化: 1920x1080[0m
+[32m日志:debug_log-级别:INFO-时间:2026-06-01 17:52:28-模块:baseDriver.py-第143行:浏览器启动和页面加载完成[0m

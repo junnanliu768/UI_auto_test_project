@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Tue Jun 02 10:45:04 CST 2026","Tue Jun 02 10:45:35 CST 2026","30231","TestCase","test_homepage","","","","test_robot_hand_is_none",""
+"passed","Mon Jun 01 18:29:33 CST 2026","Mon Jun 01 18:29:36 CST 2026","3000","","","","","","test_robot_status_is_active",""
+"failed","Tue Jun 02 10:44:34 CST 2026","Tue Jun 02 10:45:04 CST 2026","30249","TestCase","test_homepage","","","","test_robot_model_is_m7",""
+"skipped","Mon Jun 01 18:29:49 CST 2026","Mon Jun 01 18:29:49 CST 2026","0","","","","","","test_robot_status_is_active",""
+"failed","Tue Jun 02 10:44:04 CST 2026","Tue Jun 02 10:44:34 CST 2026","30323","TestCase","test_homepage","","","","test_robot_status_is_active",""
+"skipped","Tue Jun 02 10:42:33 CST 2026","Tue Jun 02 10:42:33 CST 2026","0","","","","","","test_robot_status_is_active",""
